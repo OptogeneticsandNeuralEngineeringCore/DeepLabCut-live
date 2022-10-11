@@ -45,7 +45,7 @@ Note: currently, general DeepLabCut and DeepLabCut-Live! use different python ve
 Then install with or without a GUI:
 
 - available on pypi as: `pip install deeplabcut-live`
-- available on pypi with a GUI as: `pip install deeplabcut-live`
+- available on pypi with a GUI as: `pip install deeplabcut-live-gui`
 
 Note, you can then test your installation by running:
 
